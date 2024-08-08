@@ -1,7 +1,7 @@
 [class*="i-"] {
   width: 100%;
 }
-@media only screen and (max-width: 400px) {body{
+@media only screen and (max-width: 250px) {body{
   background-color: rgb(21, 18, 18);
     background-repeat: no-repeat;
   background-size: contain;
